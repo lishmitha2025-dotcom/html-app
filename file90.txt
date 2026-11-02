@@ -1,3 +1,5 @@
 hii lishu
 how are you
 welcome to git class
+git class is good
+i like that class
